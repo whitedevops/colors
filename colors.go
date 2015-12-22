@@ -1,6 +1,15 @@
+/*
+Package colors provides the list of standard terminal color codes.
+
+Installation
+
+In the terminal:
+
+	$ go get github.com/whitedevops/colors
+*/
 package colors
 
-// Color codes.
+// Color codes
 const (
 	ResetAll = "\033[0m"
 
