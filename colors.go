@@ -1,7 +1,7 @@
 // Package colors provides the list of standard terminal color codes.
 package colors
 
-// Color codes
+// The list of standard terminal color codes.
 const (
 	ResetAll = "\033[0m"
 
