@@ -1,12 +1,4 @@
-/*
-Package colors provides the list of standard terminal color codes.
-
-Installation
-
-In the terminal:
-
-	$ go get github.com/whitedevops/colors
-*/
+// Package colors provides the list of standard terminal color codes.
 package colors
 
 // Color codes
